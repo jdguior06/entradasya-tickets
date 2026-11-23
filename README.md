@@ -1,5 +1,7 @@
 # tickets — EntradasYa
 
+[![CI](https://github.com/jdguior06/entradasya-tickets/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-tickets/actions/workflows/ci.yml)
+
 Genera una entrada por asiento con un **código único** y un **PDF con QR**, permite al cliente descargarlas y le dice a checkin si un código es válido.
 
 - Puerto: **3005** · Base de datos: **tickets_db** · Archivos: carpeta local `TICKETS_STORAGE_DIR`
